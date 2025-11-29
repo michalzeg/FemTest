@@ -1,1 +1,0 @@
-import{Jb as n,Kb as m,dc as p,nb as t}from"./chunk-IS7PPOMH.js";var s=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=t({type:o,selectors:[["app-home"]],decls:2,vars:0,template:function(e,i){e&1&&(n(0,"p"),p(1,"home works!"),m())},encapsulation:2})};export{s as HomeComponent};
