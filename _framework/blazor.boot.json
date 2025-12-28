@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Triangulator",
   "resources": {
-    "hash": "sha256-B+IoCdQ9TapiXnf1o4x06f9+zg5Tv/DeOvXAahL6NMg=",
+    "hash": "sha256-5REUcYUfeD+jJXOLeIPv/8TukyiHdVxuCWPiD7INtXQ=",
     "fingerprinting": {
       "GeoAPI.CoordinateSystems.9qmt926cge.wasm": "GeoAPI.CoordinateSystems.wasm",
       "GeoAPI.ahd6unzrlw.wasm": "GeoAPI.wasm",
@@ -71,9 +71,9 @@
       "System.Xml.Linq.62mgoxb9g2.wasm": "System.Xml.Linq.wasm",
       "System.Xml.ReaderWriter.mtidk7trhm.wasm": "System.Xml.ReaderWriter.wasm",
       "System.Xml.XDocument.rq3uoqeade.wasm": "System.Xml.XDocument.wasm",
-      "Triangle.qlapscht9a.wasm": "Triangle.wasm",
-      "Triangulation.pejt4n43nn.wasm": "Triangulation.wasm",
-      "Triangulator.mfz9umbw55.wasm": "Triangulator.wasm",
+      "Triangle.cgkqow671g.wasm": "Triangle.wasm",
+      "Triangulation.2hjm088sf8.wasm": "Triangulation.wasm",
+      "Triangulator.a08v6l7kzk.wasm": "Triangulator.wasm",
       "dotnet.native.mqibjvzcgi.js": "dotnet.native.js",
       "dotnet.native.pv12fwoyo3.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
@@ -167,9 +167,9 @@
       "System.Xml.Linq.62mgoxb9g2.wasm": "sha256-UgDQgumqZj6p9gp1AxxwuF7FY0ittV25c4qrMW9q7XY=",
       "System.Xml.ReaderWriter.mtidk7trhm.wasm": "sha256-dr+sbTBA877XYK/jZngLiD22MYG5pB38qdu1JXk5Ifo=",
       "System.Xml.XDocument.rq3uoqeade.wasm": "sha256-jXHocYVCS/ThppEaX8pR/Ky4h/AvzicYqHMda1gq83I=",
-      "Triangle.qlapscht9a.wasm": "sha256-EmJCWXTQgryvL8By/a0GpK8nYinzZ+YN+wcdfL1tLrU=",
-      "Triangulation.pejt4n43nn.wasm": "sha256-f7i1RrSIdneCoQThbYsgn6KeboabSEe3hBGwUOPk0Uo=",
-      "Triangulator.mfz9umbw55.wasm": "sha256-Xj7HnO1LKo7uZ8oj0dStPmOVy2jnsSYG0kTh7W6f/hI="
+      "Triangle.cgkqow671g.wasm": "sha256-DKIdpohjs6dqVWsvuOgMdhPYvr7s+J7zQ3OM+j5TDrQ=",
+      "Triangulation.2hjm088sf8.wasm": "sha256-6lPkcutgWkmX7qqIrnF2nQjeg+tqYlRtlAmEALkPHvs=",
+      "Triangulator.a08v6l7kzk.wasm": "sha256-thsnxLi2z8Pn+ZNS1MseXDzbg7/KLutqRZG4YCbUHag="
     }
   },
   "cacheBootResources": true,
