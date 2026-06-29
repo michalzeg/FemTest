@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Triangulator",
   "resources": {
-    "hash": "sha256-Y2OzlJ5aWhcPjbbfJABMejQd+ltLNzFERO39bZQm9bM=",
+    "hash": "sha256-KPlwEVnjxGi0RjGQRDQXl1WdKcFOkkD1jfkj/OV664g=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.snn7tdxefi.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.5clhzmpipv.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -65,9 +65,9 @@
       "System.Xml.Linq.53liyo777g.wasm": "System.Xml.Linq.wasm",
       "System.Xml.ReaderWriter.hjgg6qmu49.wasm": "System.Xml.ReaderWriter.wasm",
       "System.Xml.XDocument.75levxgv6x.wasm": "System.Xml.XDocument.wasm",
-      "Triangle.4xfng96572.wasm": "Triangle.wasm",
-      "Triangulation.v26igjjou7.wasm": "Triangulation.wasm",
-      "Triangulator.w52q3mzb1e.wasm": "Triangulator.wasm",
+      "Triangle.48mm48810r.wasm": "Triangle.wasm",
+      "Triangulation.uayi5xfzgo.wasm": "Triangulation.wasm",
+      "Triangulator.8kk7up9hyk.wasm": "Triangulator.wasm",
       "dotnet.native.o7lxyfz6j0.js": "dotnet.native.js",
       "dotnet.native.2zxup62hs0.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
@@ -155,9 +155,9 @@
       "System.Xml.Linq.53liyo777g.wasm": "sha256-v9JHsJbBkO3lHVBoE7qJxiS0WfQzkxg+A8GpOWF+ls8=",
       "System.Xml.ReaderWriter.hjgg6qmu49.wasm": "sha256-vQV51bD26W4d9JATg0YIjNszHhK/1UgMaOrcKiL1rQQ=",
       "System.Xml.XDocument.75levxgv6x.wasm": "sha256-i8U4glWpuGMEh+O3BBgRUOr/HIGK3otm6Vb3FozG/1w=",
-      "Triangle.4xfng96572.wasm": "sha256-qNtkTbQy6KHuNzXZgOoGDTLZOd5TcIODOW59yLS9Ysc=",
-      "Triangulation.v26igjjou7.wasm": "sha256-R1s/Q604DqU5tcIEQ+GdROOlKRsEzJxTSGASaOZMmRs=",
-      "Triangulator.w52q3mzb1e.wasm": "sha256-dHiucBD0ljk8jlTRZVYN2pUvXhPvkTHWB0jrA4okd5s="
+      "Triangle.48mm48810r.wasm": "sha256-/IFxupJzZ5mr2ik2MXVigLToBa3mU6DDuADccs1/oG0=",
+      "Triangulation.uayi5xfzgo.wasm": "sha256-2oh+Oq8WWaygvz/abJzua2rou+paVcs+wzPUnBc0Ii0=",
+      "Triangulator.8kk7up9hyk.wasm": "sha256-2BUszu+1+LkYGd2ZHgWCLS7I7qEHx+rsjznrELJCDWI="
     }
   },
   "cacheBootResources": true,
